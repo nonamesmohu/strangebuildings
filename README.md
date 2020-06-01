@@ -1,1 +1,1 @@
-# strangebuildings
+写着玩的，无逻辑，经常出现奇奇怪怪的东西。
